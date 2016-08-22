@@ -1,4 +1,3 @@
-layout_spectrum: 0.2439065808430314
 typography_spectrum: 0.6606126849073917
 color:
   brandStrength: 0.6626440756954253
@@ -6,9 +5,11 @@ color:
   saturation: 0.26775159081444144
   rhythmicContrast: 0.6367242531850934
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.2439065808430314
 name: ReverseMyAge
+title: 'Grow Younger '
