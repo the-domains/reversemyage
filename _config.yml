@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.2439065808430314
 name: ReverseMyAge
+navigation:
+  - name: 'TSX '
+    id: c538e141-4c83-4a28-a9fd-e12e6b92fc3f
+    type: content
 title: 'Grow Younger '
 description: ...as you live longer
